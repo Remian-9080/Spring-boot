@@ -2,8 +2,6 @@ package com.learning.first.student;
 
 import java.time.LocalDate;
 
-import org.springframework.context.annotation.Primary;
-
 public class Student 
 {
    private Long id;
